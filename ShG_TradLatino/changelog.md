@@ -1,3 +1,6 @@
+## Traducción al español latino V1.4
+- En busca de concondar mejor con los diálogos en inglés, se eliminan algunos préstamos del guión japonés.
+
 ## Traducción al español latino V1.3
 - Se completan las traducciones de los tutoriales, los NPCs, la colección y demás.
 - Se añade la traducción de las habilidades de Shadow y el diario de Gerald (gracias, Sonic Sunset)
