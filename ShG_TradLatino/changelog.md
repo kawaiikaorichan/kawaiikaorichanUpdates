@@ -1,3 +1,6 @@
+## Traducción al español latino V1.4.1
+- Correcciones menores.
+
 ## Traducción al español latino V1.4
 - En busca de concondar mejor con los diálogos en inglés, se eliminan algunos préstamos del guión japonés.
 
