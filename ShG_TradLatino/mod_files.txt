@@ -1,3 +1,2 @@
-add raw/text/text_caption_es.pac
 add raw/text/text_common_es.pac
 add mod.ini
