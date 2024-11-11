@@ -1,3 +1,6 @@
+## Traducción al español latino V1.4.2
+- Correcciones menores.
+
 ## Traducción al español latino V1.4.1
 - Correcciones menores.
 
