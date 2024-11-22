@@ -1,0 +1,46 @@
+{
+	"Groups": [
+	   {
+		  "Name": "main",
+		  "DisplayName": "Opciones",
+		  "Elements": [
+  
+			 {
+				"Name": "IncludeDir1",
+				"DisplayName": "Procedencia de la traducción",
+				"Description": [
+				   "Elige si quieres que la traducción del guión de los diálogos provenga del inglés o del japonés."
+				],
+				"Type": "Trad",
+				"MinValue": null,
+				"MaxValue": null,
+				"DefaultValue": "Inglés"
+			 }
+		  ]
+	   }
+	],
+	
+	"Enums": {
+ 
+	   "Trad": 
+	   [
+ 
+		  {
+			 "DisplayName": "Inglés",
+			 "Value": "engesp",
+			 "Description": [
+				"Traducción desde del inglés."
+			 ]
+		  },
+ 
+		  {
+			 "DisplayName": "Japonés",
+			 "Value": "japesp",
+			 "Description": [
+				"Traducción desde el japonés."
+			 ]
+		  }
+	   ]
+	},
+	"IniFile": "mod.ini"
+ }

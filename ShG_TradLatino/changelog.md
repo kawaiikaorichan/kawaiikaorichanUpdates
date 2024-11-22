@@ -1,3 +1,9 @@
+## Traducción al español latino V2.0
+- Se incluye una configuración que permite seleccionar si se desea que la traducción de los diálogos provenga del inglés o del japonés (el resto de los textos sigue y seguirá siendo a partir del japonés;). Si se elige la versión japonesa, se podrá leer la traducción japonesa del diario de Gerald al presionar "Leer"; las páginas seguirán contando con la traducción de Sonic Sunset.
+- Se corrigen algunos detalles de las traducciones ya publicadas.
+- Se corrige un error en una página del diario de Gerald.
+- Se traducen los modelos de los niveles.
+
 ## Traducción al español latino V1.4.2
 - Correcciones menores.
 
