@@ -1,3 +1,7 @@
+## Traducción al español latino V2.1
+- Se realizan correcciones mayores a las traducciones de ambas fuentes
+- ADVERTENCIA: EL PRÓXIMO DLC, SHADOW DE LA PELÍCULA, MUY PROBABLEMENTE CAUSARÁ ERRORES CON ESTE MOD. UNA SOLUCIÓN PARA ELLO SE TRABAJARÁ A LA BREVEDAD.
+
 ## Traducción al español latino V2.0
 - Se incluye una configuración que permite seleccionar si se desea que la traducción de los diálogos provenga del inglés o del japonés (el resto de los textos sigue y seguirá siendo a partir del japonés;). Si se elige la versión japonesa, se podrá leer la traducción japonesa del diario de Gerald al presionar "Leer"; las páginas seguirán contando con la traducción de Sonic Sunset.
 - Se corrigen algunos detalles de las traducciones ya publicadas.
