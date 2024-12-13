@@ -1,3 +1,6 @@
+## Traducción al español latino V2.2.1
+- Se traduce la campaña de Shadow de la película (traducción únicamente basada en el inglés, dado que sólo está disponible la voz de Keanu Reeves).
+
 ## Traducción al español latino V2.2
 - Se traduce la campaña de Shadow de la película (traducción únicamente basada en el inglés, dado que sólo está disponible la voz de Keanu Reeves).
 

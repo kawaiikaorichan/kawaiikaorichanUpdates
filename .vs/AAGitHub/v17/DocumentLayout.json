@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_files.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShG_TradLatino\\mod_files.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_version.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShG_TradLatino\\mod_version.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShG_TradLatino\\mod.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_files.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShG_TradLatino\\mod_files.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShG_TradLatino\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "mod.ini",
-              "DocumentMoniker": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod.ini",
-              "RelativeDocumentMoniker": "ShG_TradLatino\\mod.ini",
-              "ToolTip": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod.ini",
-              "RelativeToolTip": "ShG_TradLatino\\mod.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
-              "WhenOpened": "2024-12-13T03:15:59.562Z",
+              "DocumentIndex": 2,
+              "Title": "changelog.md",
+              "DocumentMoniker": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\changelog.md",
+              "RelativeDocumentMoniker": "ShG_TradLatino\\changelog.md",
+              "ToolTip": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\changelog.md",
+              "RelativeToolTip": "ShG_TradLatino\\changelog.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-13T03:20:22.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "mod_version.ini",
               "DocumentMoniker": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_version.ini",
               "RelativeDocumentMoniker": "ShG_TradLatino\\mod_version.ini",
               "ToolTip": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_version.ini",
               "RelativeToolTip": "ShG_TradLatino\\mod_version.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
               "WhenOpened": "2024-12-13T03:07:32.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mod_files.txt",
               "DocumentMoniker": "D:\\Mods\\Shadow Generations\\Traduccion latino\\AAGitHub\\ShG_TradLatino\\mod_files.txt",
               "RelativeDocumentMoniker": "ShG_TradLatino\\mod_files.txt",
