@@ -1,5 +1,6 @@
 add main/raw/dlc/dlcmov/text/dlcmov_text_es.pac
-add main/raw/stage/w09_common.pac
-add main/raw/text/text_patch_es.pac
-add main/raw/ui/ui_gamemodewhitemap.pac
+add engesp/raw/text/text_caption_es.pac
+add engesp/raw/text/text_common_es.pac
+add japesp/raw/text/text_caption_es.pac
+add japesp/raw/text/text_common_es.pac
 add mod.ini
