@@ -1,3 +1,6 @@
+## Traducción al español latino V2.3.1
+- Corrección menor del espaciado entre el nombre del personaje que habla y el diálogo en los subtítulos.
+
 ## Traducción al español latino V2.3
 - Gracias a las nuevas herramientas disponibles, se devuelven a los subtítulos los nombres de la persona que dice cada diálogo.
 
