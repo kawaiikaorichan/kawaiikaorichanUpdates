@@ -1,12 +1,9 @@
-## Sonic Frontiers: MOD Latino V1.2
-- Se añaden nuevas cinemáticas con voces en latino.
+## Sonic Frontiers: MOD Latino V1.1.1
+- Ajuste de algunos tÃ©rminos
 
 ## Sonic Frontiers: MOD Latino V1.1
-- Ajuste de algunos términos
-
-## Sonic Frontiers: MOD Latino V1.1
-- Revisión de gramática menor y adición de textos faltantes
-- Traducción de tutoriales, final de misiones y elementos de interfaz faltantes
+- RevisiÃ³n de gramÃ¡tica menor y adiciÃ³n de textos faltantes
+- TraducciÃ³n de tutoriales, final de misiones y elementos de interfaz faltantes
 
 ## Sonic Frontiers: MOD Latino V1.0
 - Lanzamiento inicial
